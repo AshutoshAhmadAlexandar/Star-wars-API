@@ -55,4 +55,3 @@ Note that this screenshot shows the result of a listing request to the `/people`
 
 Web services are a key component of today's internet. Either by consuming or creating APIs, you will be constantly in touch with them. That's why it's so important to get accustomed and properly understand how they work.
 
-In this practice we are building our API in the most rudimentary way. That means, without using any library or tools, and manually implementing each of the aspects of it. In the next practice, we will learn how to implement this same API using the wonderful [Django REST Framework](http://www.django-rest-framework.org/) library. Stay tuned 😉
